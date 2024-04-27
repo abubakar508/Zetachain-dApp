@@ -6,7 +6,7 @@ functionalities and serve as a starting point for custom DApp development.
 
 ![Screenshot](./public/screenshot.png)
 
-The template is built with [Next.js](https://nextjs.org/),
+The dApp is built with [Next.js](https://nextjs.org/),
 [Tailwind](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/), and
 the [ZetaChain Toolkit](https://github.com/zeta-chain/toolkit/).
 
